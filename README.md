@@ -8,7 +8,7 @@ Hello, I'm Rahul Bharadwaaj
 
 🎓 Master’s of Science in Data Science from the University of Massachusetts Dartmouth, graduated on August 2024 with a GPA of 3.94.
 
-💼 Two years of hands-on experience in data analysis and machine learning, specializing in predictive analytics, EDA, and SQL-based data transformations, with a focus on real-world applications in healthcare and retail analytics.
+💼 4 years of hands-on experience in data analysis and machine learning, specializing in predictive analytics, EDA, and SQL-based data transformations, with a focus on real-world applications in healthcare and retail analytics.
 </div>
 
 ##  Tech Stack
